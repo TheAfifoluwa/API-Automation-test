@@ -1,0 +1,14 @@
+{
+	"id": "e7a9fdb0-c4c7-47bf-a6f3-aa6997e621cf",
+	"name": "API PROJECT TEST TEAM NORTH",
+	"values": [
+		{
+			"key": "project test",
+			"value": "https://demo.fusio-project.org/index.php/",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-09-11T10:02:08.827Z",
+	"_postman_exported_using": "Postman/7.32.0"
+}
